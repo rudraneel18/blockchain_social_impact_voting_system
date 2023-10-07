@@ -6,7 +6,7 @@ Demo Video Link:
 
 https://github.com/rudraneel18/blockchain_social_impact_voting_system/assets/64578089/244ee363-e41b-4fcc-b4a8-4f40a8ffd6ba
 
-![Link if above video is not working]([https://drive.google.com/file/d/1VQ-DqpEJN-xsOJ3bgY9WWisJx3TIBthi/view?usp=sharing](https://drive.google.com/file/d/1VQ-DqpEJN-xsOJ3bgY9WWisJx3TIBthi/view?usp=drive_link))
+Link if above video is not working : !https://drive.google.com/file/d/1VQ-DqpEJN-xsOJ3bgY9WWisJx3TIBthi/view?usp=drive_link
 
 
 
