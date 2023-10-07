@@ -4,6 +4,11 @@ A blockchain-based voting system that preserves voter privacy and increases acce
 Screenshots
 ![Votiing](https://github.com/Kapcool12/Blockchain_voting_system/assets/94378669/74ce8435-c852-4fd3-aa53-e349c2606867)
 
+Demo Video Link:
+
+
+https://github.com/rudraneel18/blockchain_social_impact_voting_system/assets/64578089/b7a03e18-3ec7-42ae-bdaf-fac379773964
+
 
 
 
